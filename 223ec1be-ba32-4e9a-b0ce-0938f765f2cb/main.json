@@ -1,1 +1,1 @@
-{"allocations": {"V": 0}, "frequency": 30, "name": "Untitled Strategy", "period": "days", "trailing": {"value": 100, "stop": true}}
+{"allocations": {"GOOG": 11.11, "AAPL": 11.11, "MSFT": 11.11, "AMZN": 11.11, "META": 11.11, "AVGO": 11.11, "JPM": 11.11, "TSLA": 11.11, "V": 11.11}, "frequency": 30, "name": "Untitled Strategy", "period": "days", "trailing": {"value": 100, "stop": true}}
