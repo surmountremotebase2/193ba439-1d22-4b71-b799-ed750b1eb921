@@ -1,1 +1,1 @@
-{"allocations": {"GOOG": 0}, "frequency": 30, "name": "Untitled Strategy", "period": "days", "trailing": {"value": 100, "stop": true}}
+{"allocations": {"V": 0}, "frequency": 30, "name": "Untitled Strategy", "period": "days", "trailing": {"value": 100, "stop": true}}
