@@ -1,1 +1,1 @@
-{"allocations": {"GOOG": 100}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"GOOG": 33.33, "NVDA": 33, "AAPL": 33.33}, "frequency": 30, "name": "Untitled Strategy", "period": "days", "trailing": {"value": 0, "stop": false}}
