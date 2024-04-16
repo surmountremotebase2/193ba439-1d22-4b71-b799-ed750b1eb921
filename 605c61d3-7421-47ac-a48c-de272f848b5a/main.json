@@ -1,1 +1,1 @@
-{}
+{"groups": {}, "interval": "1min", "assets": ["A", "MSFT"], "strategy": [{"type": "IF", "conditions": [{"type": "BINARY", "first": {"name": "RSI", "args": {"ticker": "A", "length": "1"}, "advanced": {}}, "second": {"name": "RSI", "args": {"length": "1", "ticker": "A"}}, "comp": ">", "operator": ""}, {"type": "BINARY", "first": {"name": "EMA", "args": {"ticker": "MSFT", "length": "2"}}, "second": {"name": "constant", "args": {"value": "10"}}, "comp": ">", "operator": "OR"}], "if_action": {"type": "ACTION", "steps": []}, "else_action": {"type": "ACTION", "steps": []}}]}
