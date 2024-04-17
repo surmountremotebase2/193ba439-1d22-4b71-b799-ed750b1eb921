@@ -1,1 +1,1 @@
-{"allocations": {"GOOG": 25, "NVDA": 25, "AAPL": 25, "AMZN": 25}, "frequency": 30, "name": "Untitled Strategy", "period": "days", "trailing": {"value": 0, "stop": false}}
+{"allocations": {"GOOG": 16.67, "NVDA": 16.67, "AAPL": 16.67, "AMZN": 16.67, "META": 16.67, "VOO": 16.67}, "frequency": 30, "name": "Untitled Strategy", "period": "days", "trailing": {"value": 0, "stop": false}}
